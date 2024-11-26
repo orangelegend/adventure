@@ -1,0 +1,4 @@
+id,image,text,prompt,choice1_text,choice1_next,choice2_text,choice2_next,choice3_text,choice3_next,choice4_text,choice4_next,choice5_text,choice5_next
+0,,One dude is an alien kill him or escape?,what weapon,fists,1,flamethrower,1
+1,,You lose what did you expect, what do you do, run away, 2 , go back a question, 1
+2,,bye,ww,next,,
